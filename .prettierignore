@@ -1,0 +1,8 @@
+prettierrc.js
+.eslintrc.js
+package-lock.json
+package.json
+**/.git
+**/.svn
+**/.hg
+**/node_modules

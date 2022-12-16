@@ -1,0 +1,25 @@
+{
+    "name": "xlog",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wWrongName/xlog.git"
+    },
+    "author": "wWrongName",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/wWrongName/xlog/issues"
+    },
+    "homepage": "https://github.com/wWrongName/xlog#readme",
+    "devDependencies": {
+        "eslint": "^8.29.0",
+        "eslint-config-prettier": "^8.5.0",
+        "eslint-plugin-react": "^7.31.11",
+        "prettier": "^2.8.1"
+    }
+}
