@@ -1,6 +1,6 @@
 module.exports = {
     printWidth: 80,
-    tabWidth: 2,
+    tabWidth: 4,
     useTabs: false,
     semi: false,
     singleQuote: false,
@@ -11,4 +11,4 @@ module.exports = {
     bracketSameLine: false,
     arrowParens: "always",
     endOfLine: "lf",
-};
+}
